@@ -15,6 +15,9 @@
     <a class="nav-link" href="?pagina=contatos">Contatos</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="?pagina">Link</a>
+    <a class="nav-link" href="?pagina=sobrenos">Sobre Nós</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="?pagina=institucional">Institucional</a>
   </li>
 </ul>
